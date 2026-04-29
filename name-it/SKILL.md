@@ -1,6 +1,10 @@
 ---
 name: name-it
 description: Generate easy-to-pronounce names for products, companies, brands, tools, projects, or objects through a conversational and divergent process. Use when user asks for naming help or mentions naming, name this, help me name, brand name, or company name.
+license: MIT
+metadata:
+  author: Diego Ramos
+  version: '1.0.0'
 ---
 
 Interview the user for the purpose of generating a novel name for one thing. To find this novel name, you must search for existing words in the world's languages that capture the essence of what they're naming.
