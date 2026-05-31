@@ -5,7 +5,7 @@ Agent skills by Diego Ramos.
 ## Installation
 
 ```bash
-bunx skills@latest add diegoramoz/skills
+bunx skills@latest add diegolosramos/skills
 ```
 
 ## Skills
